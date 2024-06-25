@@ -1,2 +1,1 @@
-# RAG-Application
-using GEMINI
+# llama-with-clarifai
